@@ -1,2 +1,2 @@
 # rag
-samall project for for me
+small project for for myself
